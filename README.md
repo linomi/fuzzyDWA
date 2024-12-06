@@ -6,14 +6,14 @@
 
 usage:
 
-`python text.py`
+`python test.py`
 
 Requirements
 To get started with this project, ensure you have the following dependencies installed:
 
 * NumPy: For numerical computations.
 
-*Matplotlib: For creating static, animated, and interactive visualizations.
+* Matplotlib: For creating static, animated, and interactive visualizations.
 
 * PySwarm: For particle swarm optimization.
 
